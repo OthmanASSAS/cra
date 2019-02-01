@@ -1,0 +1,17 @@
+th{
+    text-align: center
+}
+.wrap{
+    margin:auto
+}
+
+.btn-valider{
+    margin-top: 20px;
+    background-color: rgb(166, 167, 180);
+    border-radius: 10%;
+    border:none
+}
+
+.div-valider{
+    text-align: center
+}
